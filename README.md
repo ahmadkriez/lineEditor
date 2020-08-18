@@ -7,9 +7,9 @@ This project is about building line editor for text files, for using this java a
 
 Syntax for running the line editor
 
-   java edit input_file_name output_file_name
-   java edit input_file_name
-   java edit
+   ```java edit input_file_name output_file_name```
+   ```java edit input_file_name```
+   ```java edit```
 
 The command that user can used to control the editor.
 

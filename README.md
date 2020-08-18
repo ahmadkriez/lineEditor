@@ -23,19 +23,19 @@ The command that user can used to control the editor.
 
    `E`   Starting character editing mode
    
-          `L`     Move cursor one character left
+          L     Move cursor one character left
           
-          `R`     Move cursor one character right
+          R     Move cursor one character right
           
-          `A s`   Appand a string, s, to the end of line
+          A s   Appand a string, s, to the end of line
           
-          `I s`   Insert a string, s, after the curor
+          I s   Insert a string, s, after the curor
           
-          `C s`   Change to string, s, from the cursor to length of, s,
+          C s   Change to string, s, from the cursor to length of, s,
           
-          `D`    Delete the character after the cursor
+          D    Delete the character after the cursor
           
-          `E`     Exit editing mode
+          E     Exit editing mode
 
    `F`   Goes to and displays the first line.
 

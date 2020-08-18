@@ -17,15 +17,24 @@ The command that user can used to control the editor.
 
    `A`   New line to the end of file.
 
+
    `D`   Delete the current line and move to the next line
 
+
    `E`   Starting character editing mode
+   
           `L`     Move cursor one character left
+          
           `R`     Move cursor one character right
+          
           `A s`   Appand a string, s, to the end of line
+          
           `I s`   Insert a string, s, after the curor
+          
           `C s`   Change to string, s, from the cursor to length of, s,
+          
           `D`    Delete the character after the cursor
+          
           `E`     Exit editing mode
 
    `F`   Goes to and displays the first line.
